@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @NIKIofDev
-- 👀 I’m interested in fivem
+- 👋 Hi, I’m @NIKIofDev 
 - 📫 How to reach me Discord: NIKI#6375 - TikTok: NIKIofDev (@nikiofdev) - Instagram NIKIofDev (@nikiofdev)
-- 🧶 FiveM Developer
+- 👀 FiveM Developer
